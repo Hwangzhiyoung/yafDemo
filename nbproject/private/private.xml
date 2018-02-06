@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file://10.0.2.4/shared/wwwroot/Demo/application/Bootstrap.php</file>
+            <file>file://10.0.2.4/shared/wwwroot/Demo/application/controllers/Index.php</file>
+            <file>file://10.0.2.4/shared/wwwroot/Demo/application/controllers/Error.php</file>
+            <file>file://10.0.2.4/shared/wwwroot/Demo/conf/application.ini</file>
+            <file>file://10.0.2.4/shared/wwwroot/Demo/library/Base/Controller.php</file>
+            <file>file://10.0.2.4/shared/wwwroot/Demo/application/controllers/Statistics.php</file>
+            <file>file://10.0.2.4/shared/wwwroot/Demo/application/plugins/Test.php</file>
+            <file>file://10.0.2.4/shared/wwwroot/Demo/application/views/index/index.phtml</file>
+            <file>file://10.0.2.4/shared/wwwroot/Demo/library/Smarty/Adapter.php</file>
+            <file>file://10.0.2.4/shared/wwwroot/Demo/index.php</file>
+        </group>
+    </open-files>
+</project-private>
